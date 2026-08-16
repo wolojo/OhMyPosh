@@ -14,7 +14,7 @@
             "style": "folder"
           },
           "style": "diamond",
-          "template": " \uf74a {{ path .Path .Location }} ",
+          "template": " {{ path .Path .Location }} ",
           "type": "path"
         },
         {
